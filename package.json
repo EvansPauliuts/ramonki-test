@@ -1,0 +1,12 @@
+{
+  "name": "ramonki-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.9"
+  }
+}
